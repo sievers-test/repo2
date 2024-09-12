@@ -2,5 +2,6 @@
   "country": "de",
   "appFolders": [],
   "testFolders": [],
-  "artifact": "bcartifacts/sandbox/23.0.12034.13450/de/closest"
+  "artifact": "bcartifacts/sandbox/23.0.12034.13450/de/closest",
+  "repoVersion": "1.1"
 }
